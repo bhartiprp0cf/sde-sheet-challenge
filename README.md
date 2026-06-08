@@ -1,2 +1,25 @@
 # sde-sheet-challenge
 My solution for 45 days of #SDESheetChallenge by @takeUforward
+
+# Striver SDE Sheet Challenge 🚀
+
+My journey through Striver's SDE Sheet.
+
+## Progress
+
+- [x] Day 1
+- [x] Day 2
+- [x] Day 3
+- [x] Day 4
+- [x] Day 5
+- [x] Day 6
+- [x] Day 7
+- [x] Day 8
+
+## Language
+
+C++
+
+## Goal
+
+Complete all problems while improving DSA and problem-solving skills.
